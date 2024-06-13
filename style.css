@@ -216,16 +216,11 @@ nav {
     display: flex;
     flex-direction: column;
     gap: 10px;
-    transform: translateY(-20px);
     font-weight: 500;
 }
 
 .header-card img {
     width: 200px;
-}
-
-.cake-card-text {
-    transform: translateY(-30px);
 }
 
 .contact {
